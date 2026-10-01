@@ -7,3 +7,4 @@
 | 2026-09-28 | 클로저 | [javascript/2026-09-28-closure.md](./javascript/2026-09-28-closure.md) |
 | 2026-09-29 | 디바운스 | [javascript/2026-09-29-debounce.md](./javascript/2026-09-29-debounce.md) |
 | 2026-09-30 | 쓰로틀 | [javascript/2026-09-30-throttle.md](./javascript/2026-09-30-throttle.md) |
+| 2026-10-01 | 제네릭과 함수 타이핑 | [typescript/2026-10-01-generics.md](./typescript/2026-10-01-generics.md) |
