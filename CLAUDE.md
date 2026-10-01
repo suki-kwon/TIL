@@ -7,7 +7,7 @@
 - 면접 대비 및 이직 활동의 근거 자료로 활용
 
 ## 폴더 구조
-- 주제별 폴더로 분류: `browser/`, `javascript/`, `css/`, `network/`, `react/`, `cs/`
+- 주제별 폴더로 분류: `browser/`, `javascript/`, `css/`, `network/`, `react/`, `typescript/`, `cs/`
 - 파일명 규칙: `YYYY-MM-DD-주제.md`
 
 ## 노트 작성 형식
