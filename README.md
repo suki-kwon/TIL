@@ -9,3 +9,4 @@
 | 2026-09-30 | 쓰로틀 | [javascript/2026-09-30-throttle.md](./javascript/2026-09-30-throttle.md) |
 | 2026-10-01 | 제네릭과 함수 타이핑 | [typescript/2026-10-01-generics.md](./typescript/2026-10-01-generics.md) |
 | 2026-10-02 | CSS Specificity와 Cascade | [css/2026-10-02-specificity-cascade.md](./css/2026-10-02-specificity-cascade.md) |
+| 2026-10-03 | 시맨틱 HTML과 ARIA | [browser/2026-10-03-semantic-html-aria.md](./browser/2026-10-03-semantic-html-aria.md) |
