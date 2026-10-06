@@ -12,3 +12,4 @@
 | 2026-10-03 | 시맨틱 HTML과 ARIA | [browser/2026-10-03-semantic-html-aria.md](./browser/2026-10-03-semantic-html-aria.md) |
 | 2026-10-04 | Promise.all 직접 구현 | [javascript/2026-10-04-promise-all.md](./javascript/2026-10-04-promise-all.md) |
 | 2026-10-05 | useEffect와 stale closure | [react/2026-10-05-useeffect-stale-closure.md](./react/2026-10-05-useeffect-stale-closure.md) |
+| 2026-10-06 | React 리렌더링과 memo / useMemo / useCallback | [react/2026-10-06-rerender-memoization.md](./react/2026-10-06-rerender-memoization.md) |
