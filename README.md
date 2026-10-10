@@ -14,3 +14,4 @@
 | 2026-10-05 | useEffect와 stale closure | [react/2026-10-05-useeffect-stale-closure.md](./react/2026-10-05-useeffect-stale-closure.md) |
 | 2026-10-06 | React 리렌더링과 memo / useMemo / useCallback | [react/2026-10-06-rerender-memoization.md](./react/2026-10-06-rerender-memoization.md) |
 | 2026-10-07 | CORS와 Preflight | [network/2026-10-07-cors-preflight.md](./network/2026-10-07-cors-preflight.md) |
+| 2026-10-10 | z-index와 쌓임 맥락(Stacking Context) | [css/2026-10-10-z-index-stacking-context.md](./css/2026-10-10-z-index-stacking-context.md) |
